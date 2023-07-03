@@ -87,7 +87,7 @@ openbsd/*
 1、Download the latest release source code, unzip it and enter the project directory
 
 ```
-wget https://github.com/tdragon6/Supershell/releases/download/latest/Supershell.tar.gz
+wget https://github.com/EMPtyLoo/Supershell/releases/download/1/Supershell.tar.gz
 ```
 
 ```
