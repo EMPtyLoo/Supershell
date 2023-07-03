@@ -86,7 +86,7 @@ openbsd/*
 1、下载最新release源码，解压后进入项目目录
 
 ```
-wget https://github.com/tdragon6/Supershell/releases/download/latest/Supershell.tar.gz
+wget https://github.com/EMPtyLoo/Supershell/releases/download/1/Supershell.tar.gz
 ```
 
 ```
